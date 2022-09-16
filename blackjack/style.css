@@ -1,0 +1,57 @@
+body{
+    Background-color:#008080
+    /* font-color=white;  */
+    
+}
+h1{
+    color:Black ;
+    font:calibiri;
+    
+}
+center 
+{
+    padding :2%;
+font:bolder;
+color:black;
+}
+#start
+{
+   size:100%;
+   padding:10px 10px; 
+   background-color:goldenrod ;
+   margin-top:00px;
+   margin-bottom:4px;
+   font-weight: bold;
+   border-radius: 10%;
+   width:100px
+
+}
+#draw
+{
+   size:100%;
+   padding:10px 10px; 
+   background-color:goldenrod ;
+   margin-top:4px;
+   margin-bottom:4px;
+   font-weight: bold;
+   border-radius: 10%;
+   width:100px
+}
+#newgame
+{
+   size:100%;
+   padding:10px 10px; 
+   background-color:goldenrod ;
+   margin-top:4px;
+   margin-bottom:4px;
+   margin-left:10px;
+   font-weight: bold;
+   border-radius: 10%;
+   width:100px
+}
+p{
+    padding:10%;
+    font-weight:10%;
+    font-size: 20px;
+
+}
